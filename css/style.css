@@ -38,7 +38,63 @@ MAIN
     background-color: #B98E1F;
     border: 1px dashed black;
     width: 200px;
-    
+}
+
+.debug .container2 {
+    background-color: blue;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2>div {
+    background-color: pink;
+    width: 500px;
+    height: 350px;
+}
+
+
+.debug .container3 {
+    background-color: whitesmoke;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.container3 .azzurro {
+    background-color: aqua;
+    width: 750px;
+    height: 350px;
+}
+
+.container3 .rosa {
+    background-color: pink;
+    width: 400px;
+    height: 350px;
+}
+
+
+.debug .container4 {
+    background-color: grey;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.container4 .rosa2 {
+    background-color: pink;
+    width: 400px;
+    height: 350px;
+}
+
+.container4 .azzurro2 {
+    background-color: aqua;
+    width: 750px;
+    height: 350px;
 }
 
 
