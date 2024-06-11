@@ -113,6 +113,49 @@ MAIN
     height: 600px;
 }
 
+.debug .container6 {
+    background-color: #23272A;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+
+}
+
+.rosa3 {
+    background-color: pink;
+    width: 225px;
+    height: 450px;
+}
+
+.verdeacqua {
+    background-color: #20B2AA;
+    width: 150px;
+    height: 450px;
+}
+
+.verdeacqua1 {
+    background-color: #20B2AA;
+    width: 150px;
+    height: 450px;
+}
+
+.verdeacqua2 {
+    background-color: #20B2AA;
+    width: 150px;
+    height: 450px;
+}
+
+.verdeacqua3 {
+    background-color: #20B2AA;
+    width: 150px;
+    height: 450px;
+}
+
+.debug .container7 {
+    background-color: #7FFFD4;
+    width: 1000px;
+    height: 150px;
+}
 
 
 
