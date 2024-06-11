@@ -151,10 +151,18 @@ MAIN
     height: 450px;
 }
 
-.debug .container7 {
+.debug .footertop {
+background-color: #23272A;
+width: 1000px;
+height: 150px;
+display: flex;
+justify-content: center;
+}
+
+.container7 {
     background-color: #7FFFD4;
-    width: 1000px;
-    height: 150px;
+    width: 500px;
+    height: 75px;
 }
 
 
